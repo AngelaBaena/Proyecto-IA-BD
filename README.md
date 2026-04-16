@@ -44,11 +44,11 @@ RetainHub/
 │   ├── processed_data.csv              # archivo creado con datos procesados
 │   └── top_100_riesgo_clientes.csv     # archivo creado con clientes en riesgo de abandono
 ├── data/
-│   └── .gitkeep           # Para mantener la carpeta en Git sin subir datasets pesados
+│   └── .gitkeep                        # para mantener la carpeta en Git sin subir datasets pesados
 ├── environment/
-│   └── requirements.txt   # Librerías necesarias (Pandas, Scikit-learn, PyCaret)
-├── README.md              # Información general del proyecto
-└── .gitignore             # Filtro de archivos no deseados
+│   └── requirements.txt                # librerías necesarias (Pandas, Scikit-learn, PyCaret)
+├── README.md                           # información general del proyecto
+└── .gitignore                          # filtro de archivos no deseados
 ```
 
 ## Cómo ejecutar (Instalación Inicial)
