@@ -55,4 +55,4 @@ RetainHub/
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone [https://github.co
+   git clone [https://github.co](https://github.com/AngelaBaena/Proyecto-IA-BD)]
