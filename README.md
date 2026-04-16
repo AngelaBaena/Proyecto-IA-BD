@@ -37,11 +37,12 @@ Esta es la disposición de archivos que deben aparecer en el repositorio:
 ```text
 RetainHub/
 ├── docs/
-│   └── Fase0_Presentacion_y_Viabilidad.pdf  # Documento actual del proyecto
+│   └── Fase0_grupo1.pdf
+│   └── Fase1_grupo1.pdf
 ├── src/
-│   ├── cleaning.py        # Tareas del Integrante 1
-│   ├── engineering.py     # Tareas del Integrante 2
-│   └── modeling.ipynb     # Tareas del Integrante 3 (Notebook Colab)
+│   ├── RetainHub.py                    # proyecto
+│   ├── processed_data.csv              # archivo creado con datos procesados
+│   └── top_100_riesgo_clientes.csv     # archivo creado con clientes en riesgo de abandono
 ├── data/
 │   └── .gitkeep           # Para mantener la carpeta en Git sin subir datasets pesados
 ├── environment/
