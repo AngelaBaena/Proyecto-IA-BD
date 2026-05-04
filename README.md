@@ -36,23 +36,6 @@ Esta es la disposición de archivos que deben aparecer en el repositorio:
 
 <img width="1280" height="698" alt="photo_2026-05-04_11-29-34" src="https://github.com/user-attachments/assets/2b51705c-6807-4f60-b96b-d098f932436f" />
 
-```text
-RetainHub/
-├── docs/
-│   └── Fase0_grupo1.pdf
-│   └── Fase1_grupo1.pdf
-├── src/
-│   ├── RetainHub.py                    # proyecto
-│   ├── processed_data.csv              # archivo creado con datos procesados
-│   └── top_100_riesgo_clientes.csv     # archivo creado con clientes en riesgo de abandono
-├── data/
-│   └── .gitkeep                        # para mantener la carpeta en Git sin subir datasets pesados
-├── environment/
-│   └── requirements.txt                # librerías necesarias (Pandas, Scikit-learn, PyCaret)
-├── README.md                           # información general del proyecto
-└── .gitignore                          # filtro de archivos no deseados
-```
-
 ## Cómo ejecutar (Instalación Inicial)
 *Nota: El sistema se encuentra actualmente en fase de desarrollo (Semana 1)*
 
