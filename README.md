@@ -34,6 +34,8 @@ Se utilizará un flujo de trabajo basado en ramas (branches) por integrante para
 ### Estructura de Alfombras Recomendada
 Esta es la disposición de archivos que deben aparecer en el repositorio:
 
+<img width="1280" height="698" alt="photo_2026-05-04_11-29-34" src="https://github.com/user-attachments/assets/2b51705c-6807-4f60-b96b-d098f932436f" />
+
 ```text
 RetainHub/
 ├── docs/
