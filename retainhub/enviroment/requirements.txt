@@ -1,0 +1,24 @@
+# =================================================================
+# RetainHub: Dependencias del Entorno
+# Proyecto de IA & Big Data - Fase 3
+# Equipo: Angela Baena, Mariano Correa y Carlos Suárez
+# =================================================================
+
+# Manipulación y Análisis de Datos
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualización (para los Notebooks de Angela y Carlos)
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Machine Learning y Preprocesamiento (para el trabajo de Mariano)
+scikit-learn>=1.2.0
+imbalanced-learn>=0.10.0
+
+# Utilidades y Persistencia
+joblib>=1.2.0
+kagglehub>=0.2.0
+
+# Opcional: Entorno de ejecución
+ipykernel
