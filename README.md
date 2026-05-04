@@ -41,4 +41,4 @@ Esta es la disposición de archivos que deben aparecer en el repositorio:
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone [https://github.co](https://github.com/AngelaBaena/Proyecto-IA-BD)]
+   https://github.com/AngelaBaena/Proyecto-IA-BD
